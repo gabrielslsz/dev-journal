@@ -1,0 +1,12 @@
+{
+  "name": "primeiro-projeto",
+  "version": "11.6.2",
+  "description": "",
+  "license": "ISC",
+  "author": "Gabriel",
+  "type": "commonjs",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
